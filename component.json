@@ -1,0 +1,13 @@
+{
+  "name": "errands",
+  "description": "Middleware-inspired JavaScript component for sequencing methods.",
+  "version": "0.0.1",
+  "keywords": ["middleware", "sequencing", "chaining", "functions", "methods", "errands"],
+  "dependencies": {},
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
